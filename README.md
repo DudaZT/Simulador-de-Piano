@@ -6,7 +6,7 @@ Bem-vindo ao repositório de um Simulador de Piano! Este projeto contém a cria�
 
 ## 🚀 Começando
 
-Para usar basta acessar o link: [Simulador de Piano](https://dudazt.github.io/Jogo-da-Memoria/)
+Para usar basta acessar o link: [Simulador de Piano](https://dudazt.github.io/Simulador-de-Piano/)
 
 Como Usar: Clique com o mouse ou o teclado nas teclas do piano para tocar.
 
